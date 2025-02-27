@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Mount Holyoke College Undergraduate
+        Law Journal
       image:
         filename: welcome.jpg
       text: |

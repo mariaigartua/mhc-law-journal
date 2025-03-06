@@ -14,7 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        The **Mount Holyoke College Undergraduate Law Journal** seeks to elevate the voices of Mount Holyoke College students in the field of legal scholarship. 
+        The ** Mount Holyoke College Undergraduate Law Journal ** seeks to elevate the voices of Mount Holyoke College students in the field of legal scholarship. 
   
   - block: collection
     content:

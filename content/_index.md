@@ -18,7 +18,7 @@ sections:
         background:
           image:
             # Name of image in `assets/media/`.
-            filename: welcome.jpg
+            filename: background.jpg
             # Apply image filters?
             filters:
               # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.

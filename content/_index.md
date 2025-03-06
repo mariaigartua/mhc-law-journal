@@ -6,6 +6,31 @@ type: landing
 
 sections:
 
+- block: hero
+  content:
+    title: |
+      Mount Holyoke College 
+      Law Review
+    text: |
+      <br>
+      The Mount Holyoke College Undergraduate Law Journal seeks to elevate the voices of Mount Holyoke College students in the field of legal scholarship.
+  design:
+    columns: '1'
+    background:
+      image: 
+        filename: background.jpg
+        filters:
+          brightness: 0.6
+        parallax: false
+        position: center
+        size: cover
+    text_color: white
+    text_align: left
+    spacing:
+      padding: ['20px', '0', '20px', '0']
+    css_class: fullscreen
+
+
   - block: hero
     content:
       title: |

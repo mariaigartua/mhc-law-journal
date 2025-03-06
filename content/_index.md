@@ -15,6 +15,12 @@ sections:
       text: |
         <br>
         The Mount Holyoke College Undergraduate Law Journal seeks to elevate the voices of Mount Holyoke College students in the field of legal scholarship.
+      design:
+        background:
+        # Choose a color such as from https://html-color-codes.info
+        color: 'navy'
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
 
   
   - block: collection

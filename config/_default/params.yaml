@@ -10,6 +10,7 @@ appearance:
   theme_night:
   font: native
   font_size: L
+  color: blue
 
 # SEO
 
@@ -40,6 +41,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    color: blue 
 
 # Site footer
 

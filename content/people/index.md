@@ -14,7 +14,7 @@ sections:
           - 2024-2025
           - President
           - Secretary
-          - WebsiteManager
+          - Website Manager
           # - Administration
           # - Visitors
           # - Alumni

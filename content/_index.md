@@ -69,7 +69,7 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
+  - block: hero
     content:
       title: |
         Mount Holyoke College 

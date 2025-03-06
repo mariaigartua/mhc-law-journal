@@ -8,14 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Mount Holyoke College Undergraduate
-        Law Journal
+        Mount Holyoke College 
+        Law Review
       image:
         filename: welcome.jpg
       text: |
         <br>
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+        The **Mount Holyoke College Undergraduate Law Journal** seeks to elevate the voices of Mount Holyoke College students in the field of legal scholarship. 
   
   - block: collection
     content:

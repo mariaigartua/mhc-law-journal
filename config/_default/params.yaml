@@ -4,13 +4,14 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+color: custom
 
 appearance:
-  theme_day: minimal
+  theme_day: coffee
   theme_night:
   font: native
   font_size: L
-  color: blue
+  color: custom
 
 # SEO
 
@@ -63,7 +64,7 @@ footer:
 design:
   background:
     # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
+    color: 0000FF
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 
